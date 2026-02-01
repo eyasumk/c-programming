@@ -1,12 +1,13 @@
 /* ************************************************************************** */
 /*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_putchar.c                                       :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: emuluget <emuluget@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/08/01 00:52:41 by emuluget          #+#    #+#             */
-/*   Updated: 2025/08/04 17:06:48 by emuluget         ###   ########.fr       */
+/*                                                                            */
+/*   ft_putchar.c                                                             */
+/*                                                                            */
+/*   By: Eyasu Mulugeta <jobs.eyasu@gmail.com>                                */
+/*   https://www.linkedin.com/in/eyasumk                                      */
+/*   https://github.com/eyasumk                                               */
+/*   Created: 2025/08/01 00:52:41 by Eyasu Mulugeta                           */
+/*   Updated: 2025/08/04 17:06:48 by Eyasu Mulugeta                           */
 /*                                                                            */
 /* ************************************************************************** */
 
