@@ -6,10 +6,11 @@
 /*   By: emuluget <emuluget@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/08 23:38:25 by emuluget          #+#    #+#             */
-/*   Updated: 2026/02/08 23:41:29 by emuluget         ###   ########.fr       */
+/*   Updated: 2026/02/08 23:42:38 by emuluget         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <unistd.h>
 void ft_is_negative(int n);
 
 void ft_is_negative(int n)
